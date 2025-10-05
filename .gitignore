@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+
+# Local Datasets
+cv-corpus-7.0-2021-07-21/
+cv_corpus_local/
+
+# Local Model Checkpoints
+checkpoints/
+my_model/
+
+# Python cache
+__pycache__/

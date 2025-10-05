@@ -1,0 +1,10 @@
+--- EVALUATION CONFIGURATION ---
+Model Path: ./wav2vec2-large-100k-voxpopuli-ft-TTS-Dataset-portuguese
+Dataset Path: ./cv-corpus-7.0-2021-07-21/pt
+Device: cpu
+Number of files tested: 1000
+--------------------------------
+
+--- FINAL RESULT ---
+Word Error Rate (WER): 0.6353
+--------------------
